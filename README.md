@@ -6,7 +6,7 @@ Andriana Agrusa 2344125
 
 CPSC 350-02
 
-Includes: main.cpp, Game.h, Game.cpp, ClassicMode.h, ClassicMode.cpp, DoughnutMode.h, DoughnutMode.cpp, MirrorMode.h, MirrorMode.cpp, mapFile.txt
+Includes: main.cpp, GenStack.h, SyntaxChecker.h, SyntaxChecker.cpp, TestFile.txt
 
 References I used:
 
