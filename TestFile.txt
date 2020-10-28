@@ -1,0 +1,10 @@
+Test file-- used to test the Syntax Checker.
+
+[
+text
+{
+( text
+
+text
+)
+}
